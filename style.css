@@ -1,0 +1,10 @@
+body {
+  font-size: 20px;
+  background-color: #ddd;
+}
+
+h2 {
+  text-align: center;
+  color: #fe5a1d;
+  font-family: monospace;
+}
