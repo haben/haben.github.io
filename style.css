@@ -9,12 +9,16 @@ h1, h2, h4, #home {
   text-align: center;
 }
 
-h1, h2, .orange-text {
+h1, h2, a:hover {
   color: #fe5a1d;
 }
 
 h1, h2, .navbar {
   font-family: monospace, serif;
+}
+
+a, a:focus, a:visited, a:active {
+  color: black;
 }
 
 .navbar {
@@ -35,4 +39,5 @@ h1, h2, .navbar {
   background-color: white;
   padding: 15px;
   margin: 10px;
+  border-radius: 5px;
 }
