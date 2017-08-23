@@ -5,14 +5,13 @@ body {
   color: #ddd;
 }
 
-h1, h2 {
+h1, h2, h4, #home {
   text-align: center;
-  color: #fe5a1d;
-  font-family: monospace, serif;
 }
 
-h4 {
-  text-align: center;
+h1, h2 {
+  color: #fe5a1d;
+  font-family: monospace, serif;
 }
 
 .orange-text {
@@ -32,9 +31,5 @@ h4 {
 .fa {
   background-color: white;
   padding: 10px;
-  margin: 5px;
-}
-
-#links {
-  text-align: center;
+  margin: 10px;
 }
