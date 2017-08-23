@@ -1,7 +1,8 @@
 body {
   font-size: 20px;
-  background-color: #ddd;
+  background-color: #444;
   padding-top: 65px;
+  color: #ddd;
 }
 
 h2 {
