@@ -1,8 +1,8 @@
 body {
   font-size: 20px;
-  background-color: #444;
+  background-color: #2a2b2c;
   padding-top: 65px;
-  color: #ddd;
+  color: #d9cb9e;
 }
 
 h1, h2, h4, #home {
@@ -10,7 +10,7 @@ h1, h2, h4, #home {
 }
 
 h1, h2, a:hover {
-  color: #fe5a1d;
+  color: #dc3522;
 }
 
 h1, h2, .navbar {
@@ -18,11 +18,16 @@ h1, h2, .navbar {
 }
 
 a, a:focus, a:visited, a:active {
-  color: black;
+  color: #1e1e20;
 }
 
 .navbar {
   min-height: 55px;
+  background-color: #1e1e20;
+}
+
+.nav-link {
+  color: #374140;
 }
 
 .container {
@@ -36,7 +41,7 @@ a, a:focus, a:visited, a:active {
 }
 
 .fa {
-  background-color: white;
+  background-color: #d9cb9e;
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
