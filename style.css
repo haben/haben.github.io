@@ -27,7 +27,7 @@ a, a:focus, a:visited, a:active {
 }
 
 .nav-link {
-  color: #374140;
+  color: #d9cb9e;
 }
 
 .container {
@@ -45,4 +45,12 @@ a, a:focus, a:visited, a:active {
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
+}
+
+.fa-bars {
+  margin: auto;
+  padding: 0px;
+  border-radius: 0px;
+  color: #d9cb9e;
+  background-color: #1e1e20;
 }
